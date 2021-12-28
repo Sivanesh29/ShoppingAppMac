@@ -1,0 +1,8 @@
+{
+ "name":"iPhone",
+ "brand":"Apple",
+ "category":"SmartPhone",
+ "price":"49999",
+ "stock": "50",
+ "discount": "10"
+}
