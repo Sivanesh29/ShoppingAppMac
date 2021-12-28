@@ -1,22 +1,800 @@
 [
  {
-  "name":"iPhone 13",
-  "brand":"Apple",
-  "category":"SmartPhone",
-  "price":"78999"
-  "stock": "50",
-  "discount": "20",
-  "delivery": "2",
-  "color" : "green"
+
+   "id" : "1",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "0",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
  },
  {
-  "name":"Galaxy S21",
-  "brand":"Samsung",
-  "category":"SmartPhone",
-  "price":"66990"
-  "stock": "45",
-  "discount": "10",
-  "delivery": "1",
-  "color" : "blue"
- }
+
+   "id" : "2",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "14",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "3",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "47",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "4",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "49",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "5",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "46",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "11",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "12",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "13",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "48",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "14",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "48",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "15",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "49",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "21",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "22",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "23",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "24",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "25",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "31",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "32",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "33",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "34",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "35",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "41",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "48",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "42",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "43",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "44",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "45",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "51",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "52",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "49",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "53",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "54",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "55",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "49",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "61",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "62",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "63",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "64",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "65",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "71",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "72",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "73",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "74",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "75",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "81",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "82",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "83",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "84",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "85",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "91",
+   "name":"iPhone XR",
+   "brand":"Apple",
+   "category":"Smartphone",
+   "price":"49999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "92",
+   "name":"Galaxy F62",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"23999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "93",
+   "name":"Nord 2",
+   "brand":"Oneplus",
+   "category":"Smartphone",
+   "price":"29999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "94",
+   "name":"Galaxy S21",
+   "brand":"Samsung",
+   "category":"Smartphone",
+   "price":"56999",
+   "stock": "50",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
+
+ },
+ {
+
+   "id" : "95",
+   "name":"Redmi note 10 pro",
+   "brand":"Mi",
+   "category":"Smartphone",
+   "price":"21999",
+   "stock": "47",
+   "discount": "10",
+   "delivery": "1",
+   "color" : "       ",
+   "description" : "       ",
+   "image" : "     ",
+   "rating" : " "
 ]
