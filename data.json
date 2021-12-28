@@ -1,10 +1,22 @@
-{
- "name":"iPhone 13",
- "brand":"Apple",
- "category":"SmartPhone",
- "price":"78999"
- "stock": "50",
- "discount": "20",
- "delivery": "2",
- "color" : "green"
-}
+[
+ {
+  "name":"iPhone 13",
+  "brand":"Apple",
+  "category":"SmartPhone",
+  "price":"78999"
+  "stock": "50",
+  "discount": "20",
+  "delivery": "2",
+  "color" : "green"
+ },
+ {
+  "name":"Galaxy S21",
+  "brand":"Samsung",
+  "category":"SmartPhone",
+  "price":"66990"
+  "stock": "45",
+  "discount": "10",
+  "delivery": "1",
+  "color" : "blue"
+ }
+]
