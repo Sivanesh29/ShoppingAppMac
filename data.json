@@ -2,9 +2,9 @@
  "name":"iPhone 13",
  "brand":"Apple",
  "category":"SmartPhone",
- "price":"49999",
+ "price":"78999"
  "stock": "50",
- "discount": "10",
+ "discount": "20",
  "delivery": "2",
- "color" : "black"
+ "color" : "green"
 }
