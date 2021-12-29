@@ -1,0 +1,35 @@
+{
+  { "id" : "CID1",
+    "name" : "",
+    "mobile" : "",
+    "email" : "",
+    "age" : "",
+    "address" : { "line1" : "",
+                  "line2" : "",
+                  "city" : "",
+                  "pincode" : ""
+                }
+  },
+  { "id" : "CID2",
+    "name" : "",
+    "mobile" : "",
+    "email" : "",
+    "age" : "",
+    "address" : { "line1" : "",
+                  "line2" : "",
+                  "city" : "",
+                  "pincode" : ""
+                }
+  },
+  { "id" : "CID3",
+    "name" : "",
+    "mobile" : "",
+    "email" : "",
+    "age" : "",
+    "address" : { "line1" : "",
+                  "line2" : "",
+                  "city" : "",
+                  "pincode" : ""
+                }
+  }
+}
