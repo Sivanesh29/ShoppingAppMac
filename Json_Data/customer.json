@@ -1,29 +1,27 @@
 {
   { "id" : "CID1",
-    "name" : "",
-    "mobile" : "",
-    "email" : "",
-    "age" : "",
-    "address" : [   { "line1" : "", "line2" : "", "city" : "", "pincode" : "" },
-                    { "line1" : "", "line2" : "", "city" : "", "pincode" : "" }
+    "name" : "Sivanesh",
+    "mobile" : "9123456789",
+    "email" : "sivanesh@gmail.com",
+    "age" : "21",
+    "address" : [   { "line1" : "1, Park street", "line2" : "Tambaram", "city" : "Chennai", "pincode" : "600073" },
+                    { "line1" : "55, Beach road", "line2" : "ECR", "city" : "Chennai", "pincode" : "600099" }
                 ]
   },
   { "id" : "CID2",
-    "name" : "",
-    "mobile" : "",
-    "email" : "",
-    "age" : "",
-    "address" : [   { "line1" : "", "line2" : "", "city" : "", "pincode" : "" },
-                    { "line1" : "", "line2" : "", "city" : "", "pincode" : "" }
+    "name" : "Peter",
+    "mobile" : "9214829383",
+    "email" : "peterParker@gmail.com",
+    "age" : "23",
+    "address" : [   { "line1" : "9, Baker street", "line2" : "South enclave", "city" : "Manhattan", "pincode" : "50172" }
                 ]
   },
   { "id" : "CID3",
-    "name" : "",
-    "mobile" : "",
-    "email" : "",
+    "name" : "Harry",
+    "mobile" : "82938393",
+    "email" : "harryPotter@gmail.com",
     "age" : "",
-    "address" : [   { "line1" : "", "line2" : "", "city" : "", "pincode" : "" },
-                    { "line1" : "", "line2" : "", "city" : "", "pincode" : "" }
+    "address" : [   { "line1" : "4, Pivet Drive", "line2" : "Canal Road", "city" : "London", "pincode" : "44251" }
                 ]
   }
 }
