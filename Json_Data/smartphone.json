@@ -1,0 +1,103 @@
+{
+    "PID1" :
+    {
+      "id"              :   "1",
+      "name"            :   "iPhone 13 Mini",
+      "brand"           :   "Apple",
+      "category"        :   "Mobile",
+      "price"           :   "69900",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "iPhone 13 mini is the newly launched mobile amongst iPhone 13 series that is lightweight and has a mesmerising design.This dual-SIM smartphone from Apple features flat edges, rounded corners and comes with an IP68 metal body. Besides, the phone features a 5.4 inches OLED display with a resolution of 2340x1080 pixels offering crystal clear and vivid visuals while playing games and watching videos.",
+      "image"           :   "",
+      "rating"          :   "4.7",
+      "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+      "specifications"  :   {
+                                "storage"   : [ "128GB", "256GB", "512GB" ],
+                                "processor" : "A15 Bionic Chip Processor" ,
+                                "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
+                            }
+    },
+    "PID2" :
+    {
+      "id"              :   "2",
+      "name"            :   "iPhone 13 Pro",
+      "brand"           :   "Apple",
+      "category"        :   "Mobile",
+      "price"           :   "119000",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. The newly launched Apple phone has a stainless steel design with a ceramic shield front and a textured matt glass back. It features a 6.1 inches OLED display with a screen resolution of 2532 x 1170 pixels that gives an immersive viewing experience while playing games, recording videos, or watching videos. Let’s Pro.",
+      "image"           :   "",
+      "rating"          :   "4.8",
+      "color"           :   [ "Graphite", "Gold", "Silver", "Sierra Blue" ],
+      "specifications"  :   {
+                                "storage"   : [ "128GB", "256GB", "512GB" , "1TB"],
+                                "processor" : "A15 Bionic Chip Processor" ,
+                                "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
+                            }
+    },
+    "PID3" :
+    {
+      "id"              :   "3",
+      "name"            :   "iPhone SE",
+      "brand"           :   "Apple",
+      "category"        :   "Mobile",
+      "price"           :   "28499",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "Apple iPhone SE 2 is the successor to the company’s popular iPhone SE. ",
+      "image"           :   "",
+      "rating"          :   "4.5",
+      "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+      "specifications"  :   {
+                                "storage"   : [ "64GB","128GB", "256GB" ],
+                                "processor" : "A13 Bionic Chip with 3rd Gen Neural Engine Processor" ,
+                                "display"   : "11.94 cm (4.7 inch) Retina HD Display"
+                            }
+    },
+    "PID4" :
+    {
+      "id"              :   "4",
+      "name"            :   "Galaxy Z Fold3 5G",
+      "brand"           :   "Samsung",
+      "category"        :   "Mobile",
+      "price"           :   "149999",
+      "stock"           :   "50",
+      "discount"        :   "0",
+      "delivery"        :   "2",
+      "description"     :   " ",
+      "image"           :   " ",
+      "rating"          :   "4.2",
+      "color"           :   [ "Phantom Green", "Phantom Black", "Phantom Silver"],
+      "specifications"  :   {
+                                "storage"   : [ "256GB", "512GB" ],
+                                "processor" : "Qualcomm Snapdragon 888 Octa-Core Processor" ,
+                                "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
+                            }
+    },
+    "PID5" :
+    {
+      "id"              :   "5",
+      "name"            :   "9 Pro 5G",
+      "brand"           :   "Apple",
+      "category"        :   "Mobile",
+      "price"           :   "64900",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   " ",
+      "image"           :   " ",
+      "rating"          :   "4.3",
+      "color"           :   [ "Morning Mist", "Pine Green", "Stellar Black"],
+      "specifications"  :   {
+                                "storage"   : [ "128GB", "256GB" ],
+                                "processor" : "Qualcomm Snapdragon 888 Processor" ,
+                                "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
+                            }
+    }
+}
+    

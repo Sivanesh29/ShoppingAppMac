@@ -1,0 +1,69 @@
+{
+    "TID1" :
+    {
+      "id"              :   "TID1",
+      "name"            :   "iPad Pro 2021 (5th Generation)",
+      "brand"           :   "Apple",
+      "category"        :   "Tablet",
+      "price"           :   "162900",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "Apple M1 chip for next-level performance. Brilliant 12.9-inch Liquid Retina XDR display with ProMotion, True Tone, and P3 wide color.TrueDepth camera system featuring Ultra Wide camera with Center Stage. 12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR.5G for superfast downloads and high-quality streaming.Stay connected with ultrafast Wi-Fi 6.Go further with all-day battery life.Thunderbolt port for connecting to fast external storage, displays, and docks.Face ID for secure authentication and Apple Pay",
+      "image"           :   "",
+      "rating"          :   "4.7",
+      "color"           :   [ "Silver", "Space Grey"],
+      "specifications"  :   {
+                                "storage"   : [ "128GB", "256GB", "512GB" ],
+                                "processor" : "A15 Bionic Chip Processor" ,
+                                "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display",
+                                "weight"    : "470",
+                                "battery"   : "7538"
+                            }
+    },
+    "TID2" :
+    {
+      "id"              :   "TID2",
+      "name"            :   "Galaxy Tab S7+",
+      "brand"           :   "Samsung",
+      "category"        :   "Tablet",
+      "price"           :   "76999",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB. 31.5 cm (12.4 inch) Quad HD Display.13 MP Primary Camera | 8 MP Front. Android 10 | Battery: 10090 mAh. Voice Call (Single Sim, LTE). Processor: Qualcomm Snapdragon 865 Plus",
+      "image"           :   "",
+      "rating"          :   "4.7",
+      "color"           :   [ "Silver", "Space Grey"],
+      "specifications"  :   {
+                                "storage"   : [ "128GB" ],
+                                "processor" : "Qualcomm Snapdragon 865 Plus" ,
+                                "display"   : "31.5 cm (12.4 inch) Quad HD Display",
+                                "weight"    : "466"
+                                "battery"   : "10090"
+                            }
+    },
+    "TID3" :
+    {
+      "id"              :   "TID3",
+      "name"            :   "Galaxy Tab S6 Lite",
+      "brand"           :   "Samsung",
+      "category"        :   "Tablet",
+      "price"           :   "25999",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "26.31 Centimeters (10.4-inch) TFT with 2000 x 1200 pixels resolution, 16M color support.Ergonomic S-Pen included in box.8MP primary camera | 5MP front facing camera. Dual Speaker with Dolby Atmos. Andoid 10 operating system with 2.3GHz Exynos9611 Octa Core processor. 4GB RAM, 64GB internal memory expandable up to 1TB.7,040mAH lithium-ion battery",
+      "image"           :   "",
+      "rating"          :   "4.5",
+      "color"           :   [ "Angora Blue", "Oxford Grey"],
+      "specifications"  :   {
+                                "storage"   : [ "64GB" ],
+                                "processor" : "Exynos9611 Octa Core processor" ,
+                                "display"   : "26.31 Centimeters (10.4-inch) TFT with 2000 x 1200 pixels resolution, 16M color support",
+                                "weight"    : "465"
+                                "battery"   : "7040"
+                            }
+    }
+    
+}

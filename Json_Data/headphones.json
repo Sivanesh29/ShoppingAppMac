@@ -1,0 +1,67 @@
+{
+    
+    "HID1" :
+    {
+      "id"              :   "HID1",
+      "name"            :   "Airpods Pro With Wireless Charging Case Active noise cancellation enabled Bluetooth Headset",
+      "brand"           :   "Apple",
+      "category"        :   "Headphones",
+      "price"           :   "20900",
+      "stock"           :   "50",
+      "discount"        :   "0",
+      "delivery"        :   "2",
+      "description"     :   "Active Noise Cancellation for immersive sound. Transparency mode for hearing and interacting with the world around you. Spatial audio with dynamic head tracking for theater-like sound that surrounds you. Adaptive EQ automatically tunes music to the shape of your ear. Three sizes of soft, tapered silicone tips for a customizable fit | Sweat and water resistant",
+      "image"           :   "",
+      "rating"          :   "4.5",
+      "color"           :   [ "White"],
+      "specifications"  :   {
+                                "connectivity"   : "Bluetooth",
+                                "type" : "True Wireless" ,
+                                "batteryLife"   : "24 Hours"
+                            }
+    },
+    "HID2" :
+    {
+      "id"              :   "HID2",
+      "name"            :   "Rockerz 400 Bluetooth Headset",
+      "brand"           :   "boAt",
+      "category"        :   "Headphones",
+      "price"           :   "1299",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "If you want to enjoy immersive entertainment on the move without any strings attached, then buy the boAt Rockerz 400 Super Extra Bass Bluetooth Headset. This powerful headset features 40-mm Dynamic Drivers, a Passive Noise Cancellation technology, and a Dual Mode to let you dive into your favorite music without interruption or physical limitations.",
+      "image"           :   "",
+      "rating"          :   "4.5",
+      "color"           :   [ "Blue","Carbon Black","Red","Green"],
+      "specifications"  :   {
+                                "connectivity"   : "Bluetooth",
+                                "type" : "Over Head" ,
+                                "batteryLife"   : "8 Hours"
+                            }
+    },
+    "HID3" :
+    {
+      "id"              :   "HID3",
+      "name"            :   "Galaxy Buds Pro Active Noise Cancellation Enabled Bluetooth Headset",
+      "brand"           :   "Samsung",
+      "category"        :   "Headphones",
+      "price"           :   "15990",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   " Groove to music wherever you are by getting these amazing Samsung Galaxy Buds Pro Earbuds. You can easily switch from Noise Cancelation mode to the fully adjustable Ambient Sound mode, making it ideal for use when you're outdoors. The Conversation mode and Auto Switch feature further enhance your audio experience, making this pair of earbuds a must-buy device for all audiophiles.",
+      "image"           :   "",
+      "rating"          :   "4.3",
+      "color"           :   [ "Silver","Black","Violet"],
+      "specifications"  :   {
+                                "connectivity"   : "Bluetooth",
+                                "type" : "True Wireless" ,
+                                "batteryLife"   : "28 Hours"
+                            }
+    }
+    
+    
+    
+    
+}
