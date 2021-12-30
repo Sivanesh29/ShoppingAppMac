@@ -1,5 +1,6 @@
 {
-  { "id" : "CID1",
+  "UID1":
+  { "id" : "UID1",
     "name" : "Sivanesh",
     "mobile" : "9123456789",
     "email" : "sivanesh@gmail.com",
@@ -8,7 +9,9 @@
                     { "line1" : "55, Beach road", "line2" : "ECR", "city" : "Chennai", "pincode" : "600099" }
                 ]
   },
-  { "id" : "CID2",
+  
+  "UID2":
+  { "id" : "UID2",
     "name" : "Peter",
     "mobile" : "9214829383",
     "email" : "peterParker@gmail.com",
@@ -16,7 +19,9 @@
     "address" : [   { "line1" : "9, Baker street", "line2" : "South enclave", "city" : "Manhattan", "pincode" : "50172" }
                 ]
   },
-  { "id" : "CID3",
+  
+  "UID3":
+  { "id" : "UID3",
     "name" : "Harry",
     "mobile" : "82938393",
     "email" : "harryPotter@gmail.com",

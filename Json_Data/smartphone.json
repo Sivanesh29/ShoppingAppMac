@@ -1,10 +1,10 @@
-{
-    "PID1" :
+[
+    
     {
-      "id"              :   "1",
+      "id"              :   "SID1",
       "name"            :   "iPhone 13 Mini",
       "brand"           :   "Apple",
-      "category"        :   "Mobile",
+      "category"        :   "Smartphone",
       "price"           :   "69900",
       "stock"           :   "50",
       "discount"        :   "10",
@@ -19,12 +19,12 @@
                                 "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
                             }
     },
-    "PID2" :
+    
     {
-      "id"              :   "2",
+      "id"              :   "SID2",
       "name"            :   "iPhone 13 Pro",
       "brand"           :   "Apple",
-      "category"        :   "Mobile",
+      "category"        :   "Smartphone",
       "price"           :   "119000",
       "stock"           :   "50",
       "discount"        :   "10",
@@ -39,12 +39,12 @@
                                 "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
                             }
     },
-    "PID3" :
+    
     {
-      "id"              :   "3",
+      "id"              :   "SID3",
       "name"            :   "iPhone SE",
       "brand"           :   "Apple",
-      "category"        :   "Mobile",
+      "category"        :   "Smartphone",
       "price"           :   "28499",
       "stock"           :   "50",
       "discount"        :   "10",
@@ -59,12 +59,12 @@
                                 "display"   : "11.94 cm (4.7 inch) Retina HD Display"
                             }
     },
-    "PID4" :
+     
     {
-      "id"              :   "4",
+      "id"              :   "SID4",
       "name"            :   "Galaxy Z Fold3 5G",
       "brand"           :   "Samsung",
-      "category"        :   "Mobile",
+      "category"        :   "Smartphone",
       "price"           :   "149999",
       "stock"           :   "50",
       "discount"        :   "0",
@@ -79,12 +79,12 @@
                                 "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
                             }
     },
-    "PID5" :
+    
     {
-      "id"              :   "5",
+      "id"              :   "SID5",
       "name"            :   "9 Pro 5G",
-      "brand"           :   "Apple",
-      "category"        :   "Mobile",
+      "brand"           :   "Oneplus",
+      "category"        :   "Smartphone",
       "price"           :   "64900",
       "stock"           :   "50",
       "discount"        :   "10",
@@ -99,5 +99,5 @@
                                 "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
                             }
     }
-}
-    
+
+]
