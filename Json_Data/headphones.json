@@ -1,6 +1,6 @@
-{
+[
     
-    "HID1" :
+    
     {
       "id"              :   "HID1",
       "name"            :   "Airpods Pro With Wireless Charging Case Active noise cancellation enabled Bluetooth Headset",
@@ -20,7 +20,7 @@
                                 "batteryLife"   : "24 Hours"
                             }
     },
-    "HID2" :
+    
     {
       "id"              :   "HID2",
       "name"            :   "Rockerz 400 Bluetooth Headset",
@@ -40,7 +40,7 @@
                                 "batteryLife"   : "8 Hours"
                             }
     },
-    "HID3" :
+   
     {
       "id"              :   "HID3",
       "name"            :   "Galaxy Buds Pro Active Noise Cancellation Enabled Bluetooth Headset",
@@ -64,4 +64,4 @@
     
     
     
-}
+]
