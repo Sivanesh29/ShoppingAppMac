@@ -1,5 +1,4 @@
-{
-    "TID1" :
+[
     {
       "id"              :   "TID1",
       "name"            :   "iPad Pro 2021 (5th Generation)",
@@ -22,7 +21,7 @@
                             }
     },
     
-    "TID2" :
+    
     {
       "id"              :   "TID2",
       "name"            :   "Galaxy Tab S7+",
@@ -45,7 +44,7 @@
                             }
     },
     
-    "TID3" :
+    
     {
       "id"              :   "TID3",
       "name"            :   "Galaxy Tab S6 Lite",
@@ -68,4 +67,4 @@
                             }
     }
     
-}
+]
