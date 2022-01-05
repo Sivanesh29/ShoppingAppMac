@@ -39,7 +39,7 @@
                                 "storage"   : [ "128GB" ],
                                 "processor" : "Qualcomm Snapdragon 865 Plus" ,
                                 "display"   : "31.5 cm (12.4 inch) Quad HD Display",
-                                "weight"    : "466"
+                                "weight"    : "466",
                                 "battery"   : "10090"
                             }
     },
@@ -62,7 +62,7 @@
                                 "storage"   : [ "64GB" ],
                                 "processor" : "Exynos9611 Octa Core processor" ,
                                 "display"   : "26.31 Centimeters (10.4-inch) TFT with 2000 x 1200 pixels resolution, 16M color support",
-                                "weight"    : "465"
+                                "weight"    : "465",
                                 "battery"   : "7040"
                             }
     }
