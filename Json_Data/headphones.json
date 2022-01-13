@@ -3,7 +3,7 @@
     
     {
       "id"              :   "HID1",
-      "name"            :   "Airpods Pro With Wireless Charging Case Active noise cancellation enabled Bluetooth Headset",
+      "name"            :   "Airpods Pro",
       "brand"           :   "Apple",
       "category"        :   "Headphones",
       "price"           :   "20900",
@@ -23,7 +23,7 @@
     
     {
       "id"              :   "HID2",
-      "name"            :   "Rockerz 400 Bluetooth Headset",
+      "name"            :   "Rockerz 400",
       "brand"           :   "boAt",
       "category"        :   "Headphones",
       "price"           :   "1299",
@@ -43,7 +43,7 @@
    
     {
       "id"              :   "HID3",
-      "name"            :   "Galaxy Buds Pro Active Noise Cancellation Enabled Bluetooth Headset",
+      "name"            :   "Galaxy Buds Pro",
       "brand"           :   "Samsung",
       "category"        :   "Headphones",
       "price"           :   "15990",
