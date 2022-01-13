@@ -1,7 +1,7 @@
 [
     {
       "id"              :   "TID1",
-      "name"            :   "iPad Pro 2021 (5th Generation)",
+      "name"            :   "iPad Pro ",
       "brand"           :   "Apple",
       "category"        :   "Tablet",
       "price"           :   "162900",
@@ -47,7 +47,7 @@
     
     {
       "id"              :   "TID3",
-      "name"            :   "Galaxy Tab S6 Lite",
+      "name"            :   "Galaxy Tab S6 ",
       "brand"           :   "Samsung",
       "category"        :   "Tablet",
       "price"           :   "25999",
