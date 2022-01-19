@@ -1,68 +1,69 @@
 [
     {
-      "id"              :   "LID1",
-      "name"            :   "MacBook Air M1",
+      "id"              :   "TID1",
+      "name"            :   "iPad Pro ",
       "brand"           :   "Apple",
-      "category"        :   "Laptop",
-      "price"           :   "104900",
-      "stock"           :   "10",
+      "category"        :   "Tablet",
+      "price"           :   "162900",
+      "stock"           :   "50",
       "discount"        :   "10",
-      "delivery"        :   "5",
-      "description"     :   "Power. In the Air. Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go.",
+      "delivery"        :   "2",
+      "description"     :   "Apple M1 chip for next-level performance. Brilliant 12.9-inch Liquid Retina XDR display with ProMotion, True Tone, and P3 wide color.TrueDepth camera system featuring Ultra Wide camera with Center Stage. 12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner for immersive AR.5G for superfast downloads and high-quality streaming.Stay connected with ultrafast Wi-Fi 6.Go further with all-day battery life.Thunderbolt port for connecting to fast external storage, displays, and docks.Face ID for secure authentication and Apple Pay",
       "image"           :   "",
       "rating"          :   "4.7",
       "color"           :   [ "Silver", "Space Grey"],
       "specifications"  :   {
-                                "storage"   : ["256GB", "512GB" ],
-                                "processor" : "Apple M1 Chip" ,
-                                "display"   : "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)",
-                                "weight"    : "1.29 kg",
-                                "ram"       : "8 GB"
-                            }
-    },
-    
-    {
-      "id"              :   "LID2",
-      "name"            :   "HP Spectre x360",
-      "brand"           :   "HP",
-      "category"        :   "Laptop",
-      "price"           :   "179990",
-      "stock"           :   "10",
-      "discount"        :   "10",
-      "delivery"        :   "5",
-      "description"     :   "See more, scroll less. World first 3:2 premium device. Immersive Screen. Width of 13. Height of 15. Exceptional laptop experience on the new Intel Evo Platform 4, for faster video editing and creation of 3D content.",
-      "image"           :   "",
-      "rating"          :   "4.2",
-      "color"           :   [ "Poseidon Blue", "Nightfall Black"],
-      "specifications"  :   {
-                                "storage"   : [ "512GB", "1TB" ],
-                                "processor" : "Intel Core i7 processor" ,
-                                "display"   : "34.29 cm (13.5 inch) diagonal, 3K2K OLED, UWVA, Corning Gorilla Glass",
-                                "weight"    : "1.36 kg"
-                                "ram"       : "16 GB"
+                                "storage"   : [ "128GB", "256GB", "512GB" ],
+                                "processor" : "A15 Bionic Chip Processor" ,
+                                "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display",
+                                "weight"    : "470",
+                                "battery"   : "7538"
                             }
     },
     
     
     {
-      "id"              :   "LID3",
-      "name"            :   "Surface Laptop 3",
-      "brand"           :   "Microsoft",
-      "category"        :   "Laptop",
-      "price"           :   "90090",
-      "stock"           :   "11",
+      "id"              :   "TID2",
+      "name"            :   "Galaxy Tab S7+",
+      "brand"           :   "Samsung",
+      "category"        :   "Tablet",
+      "price"           :   "76999",
+      "stock"           :   "50",
       "discount"        :   "10",
-      "delivery"        :   "5",
-      "description"     :   "Experience efficiency and performance like never before with this Microsoft Surface laptop. Powered by the 10th Generation Intel Core processor, a long-lasting battery and the Windows 10 operating system, this laptop ensures a smooth and convenient computing experience.Featuring a sleek and lightweight body with 34.29-cm screen and 1.27 kg of weight, this laptop lets you carry it around conveniently from one place to another.",
+      "delivery"        :   "2",
+      "description"     :   "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB. 31.5 cm (12.4 inch) Quad HD Display.13 MP Primary Camera | 8 MP Front. Android 10 | Battery: 10090 mAh. Voice Call (Single Sim, LTE). Processor: Qualcomm Snapdragon 865 Plus",
       "image"           :   "",
-      "rating"          :   "4.4",
-      "color"           :   [ "Platinum", "Grey"],
+      "rating"          :   "4.7",
+      "color"           :   [ "Silver", "Space Grey"],
       "specifications"  :   {
                                 "storage"   : [ "128GB" ],
-                                "processor" : "Intel Core i5 10th Gen" ,
-                                "display"   : "13.5 inch Full HD+ LED Backlit PixelSense with 10 Point Multi-touch Display (3:2 Aspect Ratio, Surface Pen Enabled)",
-                                "weight"    : "1.27 kg"
-                                "ram"   : "8 GB"
+                                "processor" : "Qualcomm Snapdragon 865 Plus" ,
+                                "display"   : "31.5 cm (12.4 inch) Quad HD Display",
+                                "weight"    : "466",
+                                "battery"   : "10090"
+                            }
+    },
+    
+    
+    {
+      "id"              :   "TID3",
+      "name"            :   "Galaxy Tab S6 ",
+      "brand"           :   "Samsung",
+      "category"        :   "Tablet",
+      "price"           :   "25999",
+      "stock"           :   "50",
+      "discount"        :   "10",
+      "delivery"        :   "2",
+      "description"     :   "26.31 Centimeters (10.4-inch) TFT with 2000 x 1200 pixels resolution, 16M color support.Ergonomic S-Pen included in box.8MP primary camera | 5MP front facing camera. Dual Speaker with Dolby Atmos. Andoid 10 operating system with 2.3GHz Exynos9611 Octa Core processor. 4GB RAM, 64GB internal memory expandable up to 1TB.7,040mAH lithium-ion battery",
+      "image"           :   "",
+      "rating"          :   "4.5",
+      "color"           :   [ "Angora Blue", "Oxford Grey"],
+      "specifications"  :   {
+                                "storage"   : [ "64GB" ],
+                                "processor" : "Exynos9611 Octa Core processor" ,
+                                "display"   : "26.31 Centimeters (10.4-inch) TFT with 2000 x 1200 pixels resolution, 16M color support",
+                                "weight"    : "465",
+                                "battery"   : "7040"
                             }
     }
     
