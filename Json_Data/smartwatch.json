@@ -24,7 +24,7 @@
     
     {
       "id"              :   "WID2",
-      "name"            :   "Apple Watch Series 7",
+      "name"            :   "Watch Series 7",
       "brand"           :   "Apple",
       "category"        :   "Smartwatch",
       "price"           :   "41900",
@@ -47,7 +47,7 @@
     
     {
       "id"              :   "WID3",
-      "name"            :   "Noise ColorFi",
+      "name"            :   "Color Fit",
       "brand"           :   "Noise",
       "category"        :   "Smartwatch",
       "price"           :   "3999",
