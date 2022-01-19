@@ -1,14 +1,14 @@
 [
     {
       "id"              :   "LID1",
-      "name"            :   "APPLE MacBook Air M1",
+      "name"            :   "MacBook Air M1",
       "brand"           :   "Apple",
       "category"        :   "Laptop",
       "price"           :   "104900",
       "stock"           :   "10",
       "discount"        :   "10",
       "delivery"        :   "5",
-      "description"     :   "Power. It’s in the Air. Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go.",
+      "description"     :   "Power. In the Air. Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go.",
       "image"           :   "",
       "rating"          :   "4.7",
       "color"           :   [ "Silver", "Space Grey"],
@@ -17,7 +17,7 @@
                                 "processor" : "Apple M1 Chip" ,
                                 "display"   : "13.3 inch Quad LED Backlit IPS Display (227 PPI, 400 nits Brightness, Wide Colour (P3), True Tone Technology)",
                                 "weight"    : "1.29 kg",
-                                "ram"   : "8 GB"
+                                "ram"       : "8 GB"
                             }
     },
     
@@ -30,16 +30,16 @@
       "stock"           :   "10",
       "discount"        :   "10",
       "delivery"        :   "5",
-      "description"     :   "See more, scroll less. World’s first 3:2 premium device. Immersive Screen. Width of 13”; Height of 15. Exceptional laptop experience on the new Intel® Evo™ Platform4, for faster video editing and creation of 3D content.",
+      "description"     :   "See more, scroll less. World first 3:2 premium device. Immersive Screen. Width of 13. Height of 15. Exceptional laptop experience on the new Intel Evo Platform 4, for faster video editing and creation of 3D content.",
       "image"           :   "",
       "rating"          :   "4.2",
       "color"           :   [ "Poseidon Blue", "Nightfall Black"],
       "specifications"  :   {
                                 "storage"   : [ "512GB", "1TB" ],
-                                "processor" : "Intel® Core™ i7 processor" ,
-                                "display"   : "34.29 cm (13.5 inch) diagonal, 3K2K OLED, UWVA, Corning® Gorilla® Glass NBT™ ",
+                                "processor" : "Intel Core i7 processor" ,
+                                "display"   : "34.29 cm (13.5 inch) diagonal, 3K2K OLED, UWVA, Corning Gorilla Glass",
                                 "weight"    : "1.36 kg"
-                                "ram"   : "16 GB"
+                                "ram"       : "16 GB"
                             }
     },
     
