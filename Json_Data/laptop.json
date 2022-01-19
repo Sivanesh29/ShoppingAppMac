@@ -1,5 +1,4 @@
-{
-    "LID1" :
+[
     {
       "id"              :   "LID1",
       "name"            :   "APPLE MacBook Air M1",
@@ -22,7 +21,6 @@
                             }
     },
     
-    "LID2" :
     {
       "id"              :   "LID2",
       "name"            :   "HP Spectre x360",
@@ -45,7 +43,7 @@
                             }
     },
     
-    "LID3" :
+    
     {
       "id"              :   "LID3",
       "name"            :   "Surface Laptop 3",
@@ -68,4 +66,4 @@
                             }
     }
     
-}
+]
