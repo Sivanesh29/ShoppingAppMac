@@ -1,5 +1,4 @@
-{
-    "WID1" :
+[
     {
       "id"              :   "WID1",
       "name"            :   "Galaxy Watch4",
@@ -22,7 +21,7 @@
                             }
     },
     
-    "WID2" :
+    
     {
       "id"              :   "WID2",
       "name"            :   "Apple Watch Series 7",
@@ -45,7 +44,7 @@
       }
     },
     
-    "WID3" :
+    
     {
       "id"              :   "WID3",
       "name"            :   "Noise ColorFi",
@@ -68,4 +67,4 @@
       }
     }
     
-}
+]
