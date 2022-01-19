@@ -1,14 +1,14 @@
 [
     {
       "id"              :   "WID1",
-      "name"            :   "Galaxy Watch4",
+      "name"            :   "Galaxy Watch 4",
       "brand"           :   "Samsung",
       "category"        :   "Smartwatch",
       "price"           :   "26900",
       "stock"           :   "22",
       "discount"        :   "10",
       "delivery"        :   "2",
-      "description"     :   "Bioelectrical Impedance Analysis Sensor for Body Composition Analysis, Optical Heart Rate Sensor.Health Monitoring features such as Advanced Sleep Analysis & Women's Health. Enhanced Fitness tracking lets you track 90+ workouts.Enriched App availability and connectivity with Wear OS, Powered by Samsung",
+      "description"     :   "Bioelectrical Impedance Analysis Sensor for Body Composition Analysis, Optical Heart Rate Sensor. Health Monitoring features such as Advanced Sleep Analysis & Women Health. Enhanced Fitness tracking lets you track 90+ workouts.Enriched App availability and connectivity with Wear OS, Powered by Samsung",
       "image"           :   "",
       "rating"          :   "4.7",
       "color"           :   [ "Black", "Grey"],
