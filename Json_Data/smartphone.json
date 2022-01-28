@@ -499,5 +499,603 @@
                                 "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
                             }
     }
+    ,
+    {
+     "id"              :   "SID26",
+     "name"            :   "iPhone 13 Mini",
+     "brand"           :   "Apple",
+     "category"        :   "Smartphone",
+     "price"           :   "69900",
+     "stock"           :   "4",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "iPhone 13 mini is the newly launched mobile amongst iPhone 13 series that is lightweight and has a mesmerising design. This dual-SIM smartphone from Apple features flat edges.",
+     "image"           :   "",
+     "rating"          :   "4.7",
+     "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+     "specifications"  :   {
+                               "storage"   : [ "128GB", "256GB", "512GB" ],
+                               "processor" : "A15 Bionic Chip Processor" ,
+                               "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
+                           }
+   },
+   
+   {
+     "id"              :   "SID27",
+     "name"            :   "iPhone 13 Pro",
+     "brand"           :   "Apple",
+     "category"        :   "Smartphone",
+     "price"           :   "119000",
+     "stock"           :   "15",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. ",
+     "image"           :   "",
+     "rating"          :   "4.8",
+     "color"           :   [ "Graphite", "Gold", "Silver", "Sierra Blue" ],
+     "specifications"  :   {
+                               "storage"   : [ "128GB", "256GB", "512GB" , "1TB"],
+                               "processor" : "A15 Bionic Chip Processor" ,
+                               "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
+                           }
+   },
+   
+   {
+     "id"              :   "SID28",
+     "name"            :   "iPhone SE",
+     "brand"           :   "Apple",
+     "category"        :   "Smartphone",
+     "price"           :   "28499",
+     "stock"           :   "0",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "Apple iPhone SE 2 is the successor to the company’s popular iPhone SE. Rounded corners and comes with an IP68 metal body. Besides, the phone features a OLED display offering crystal clear and vivid visuals.",
+     "image"           :   "",
+     "rating"          :   "4.5",
+     "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+     "specifications"  :   {
+                               "storage"   : [ "64GB","128GB", "256GB" ],
+                               "processor" : "A13 Bionic Chip with 3rd Gen Neural Engine Processor" ,
+                               "display"   : "11.94 cm (4.7 inch) Retina HD Display"
+                           }
+   },
+    
+   {
+     "id"              :   "SID29",
+     "name"            :   "Galaxy Z Fold3 5G",
+     "brand"           :   "Samsung",
+     "category"        :   "Smartphone",
+     "price"           :   "149999",
+     "stock"           :   "18",
+     "discount"        :   "0",
+     "delivery"        :   "2",
+     "description"     :   "19.19cm (7.6 inch) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro.",
+     "image"           :   " ",
+     "rating"          :   "4.2",
+     "color"           :   [ "Phantom Green", "Phantom Black", "Phantom Silver"],
+     "specifications"  :   {
+                               "storage"   : [ "256GB", "512GB" ],
+                               "processor" : "Qualcomm Snapdragon 888 Octa-Core Processor" ,
+                               "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
+                           }
+   },
+   
+   {
+     "id"              :   "SID30",
+     "name"            :   "9 Pro 5G",
+     "brand"           :   "Oneplus",
+     "category"        :   "Smartphone",
+     "price"           :   "64900",
+     "stock"           :   "23",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "It is equipped with Qualcomm® Snapdragon™ 888 with 5G, Hasselblad Camera, Fluid AMOLED Display 120 Hz Display 2.0, and 4500mAh Battery, support 15 minutes fast charging. OnePlus Oxygen OS based on Andriod 11.",
+     "image"           :   " ",
+     "rating"          :   "4.3",
+     "color"           :   [ "Morning Mist", "Pine Green", "Stellar Black"],
+     "specifications"  :   {
+                               "storage"   : [ "128GB", "256GB" ],
+                               "processor" : "Qualcomm Snapdragon 888 Processor" ,
+                               "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
+                           }
+   },
+    {
+     "id"              :   "SID31",
+     "name"            :   "iPhone 13 Mini",
+     "brand"           :   "Apple",
+     "category"        :   "Smartphone",
+     "price"           :   "69900",
+     "stock"           :   "4",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "iPhone 13 mini is the newly launched mobile amongst iPhone 13 series that is lightweight and has a mesmerising design. This dual-SIM smartphone from Apple features flat edges.",
+     "image"           :   "",
+     "rating"          :   "4.7",
+     "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+     "specifications"  :   {
+                               "storage"   : [ "128GB", "256GB", "512GB" ],
+                               "processor" : "A15 Bionic Chip Processor" ,
+                               "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
+                           }
+   },
+   
+   {
+     "id"              :   "SID32",
+     "name"            :   "iPhone 13 Pro",
+     "brand"           :   "Apple",
+     "category"        :   "Smartphone",
+     "price"           :   "119000",
+     "stock"           :   "15",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. ",
+     "image"           :   "",
+     "rating"          :   "4.8",
+     "color"           :   [ "Graphite", "Gold", "Silver", "Sierra Blue" ],
+     "specifications"  :   {
+                               "storage"   : [ "128GB", "256GB", "512GB" , "1TB"],
+                               "processor" : "A15 Bionic Chip Processor" ,
+                               "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
+                           }
+   },
+   
+   {
+     "id"              :   "SID33",
+     "name"            :   "iPhone SE",
+     "brand"           :   "Apple",
+     "category"        :   "Smartphone",
+     "price"           :   "28499",
+     "stock"           :   "0",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "Apple iPhone SE 2 is the successor to the company’s popular iPhone SE. Rounded corners and comes with an IP68 metal body. Besides, the phone features a OLED display offering crystal clear and vivid visuals.",
+     "image"           :   "",
+     "rating"          :   "4.5",
+     "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+     "specifications"  :   {
+                               "storage"   : [ "64GB","128GB", "256GB" ],
+                               "processor" : "A13 Bionic Chip with 3rd Gen Neural Engine Processor" ,
+                               "display"   : "11.94 cm (4.7 inch) Retina HD Display"
+                           }
+   },
+    
+   {
+     "id"              :   "SID34",
+     "name"            :   "Galaxy Z Fold3 5G",
+     "brand"           :   "Samsung",
+     "category"        :   "Smartphone",
+     "price"           :   "149999",
+     "stock"           :   "18",
+     "discount"        :   "0",
+     "delivery"        :   "2",
+     "description"     :   "19.19cm (7.6 inch) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro.",
+     "image"           :   " ",
+     "rating"          :   "4.2",
+     "color"           :   [ "Phantom Green", "Phantom Black", "Phantom Silver"],
+     "specifications"  :   {
+                               "storage"   : [ "256GB", "512GB" ],
+                               "processor" : "Qualcomm Snapdragon 888 Octa-Core Processor" ,
+                               "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
+                           }
+   },
+   
+   {
+     "id"              :   "SID35",
+     "name"            :   "9 Pro 5G",
+     "brand"           :   "Oneplus",
+     "category"        :   "Smartphone",
+     "price"           :   "64900",
+     "stock"           :   "23",
+     "discount"        :   "10",
+     "delivery"        :   "2",
+     "description"     :   "It is equipped with Qualcomm® Snapdragon™ 888 with 5G, Hasselblad Camera, Fluid AMOLED Display 120 Hz Display 2.0, and 4500mAh Battery, support 15 minutes fast charging. OnePlus Oxygen OS based on Andriod 11.",
+     "image"           :   " ",
+     "rating"          :   "4.3",
+     "color"           :   [ "Morning Mist", "Pine Green", "Stellar Black"],
+     "specifications"  :   {
+                               "storage"   : [ "128GB", "256GB" ],
+                               "processor" : "Qualcomm Snapdragon 888 Processor" ,
+                               "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
+                           }
+   }
 
+   ,
+   {
+    "id"              :   "SID36",
+    "name"            :   "iPhone 13 Mini",
+    "brand"           :   "Apple",
+    "category"        :   "Smartphone",
+    "price"           :   "69900",
+    "stock"           :   "4",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "iPhone 13 mini is the newly launched mobile amongst iPhone 13 series that is lightweight and has a mesmerising design. This dual-SIM smartphone from Apple features flat edges.",
+    "image"           :   "",
+    "rating"          :   "4.7",
+    "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+    "specifications"  :   {
+                              "storage"   : [ "128GB", "256GB", "512GB" ],
+                              "processor" : "A15 Bionic Chip Processor" ,
+                              "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
+                          }
+  },
+  
+  {
+    "id"              :   "SID37",
+    "name"            :   "iPhone 13 Pro",
+    "brand"           :   "Apple",
+    "category"        :   "Smartphone",
+    "price"           :   "119000",
+    "stock"           :   "15",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. ",
+    "image"           :   "",
+    "rating"          :   "4.8",
+    "color"           :   [ "Graphite", "Gold", "Silver", "Sierra Blue" ],
+    "specifications"  :   {
+                              "storage"   : [ "128GB", "256GB", "512GB" , "1TB"],
+                              "processor" : "A15 Bionic Chip Processor" ,
+                              "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
+                          }
+  },
+  
+  {
+    "id"              :   "SID38",
+    "name"            :   "iPhone SE",
+    "brand"           :   "Apple",
+    "category"        :   "Smartphone",
+    "price"           :   "28499",
+    "stock"           :   "0",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "Apple iPhone SE 2 is the successor to the company’s popular iPhone SE. Rounded corners and comes with an IP68 metal body. Besides, the phone features a OLED display offering crystal clear and vivid visuals.",
+    "image"           :   "",
+    "rating"          :   "4.5",
+    "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+    "specifications"  :   {
+                              "storage"   : [ "64GB","128GB", "256GB" ],
+                              "processor" : "A13 Bionic Chip with 3rd Gen Neural Engine Processor" ,
+                              "display"   : "11.94 cm (4.7 inch) Retina HD Display"
+                          }
+  },
+   
+  {
+    "id"              :   "SID39",
+    "name"            :   "Galaxy Z Fold3 5G",
+    "brand"           :   "Samsung",
+    "category"        :   "Smartphone",
+    "price"           :   "149999",
+    "stock"           :   "18",
+    "discount"        :   "0",
+    "delivery"        :   "2",
+    "description"     :   "19.19cm (7.6 inch) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro.",
+    "image"           :   " ",
+    "rating"          :   "4.2",
+    "color"           :   [ "Phantom Green", "Phantom Black", "Phantom Silver"],
+    "specifications"  :   {
+                              "storage"   : [ "256GB", "512GB" ],
+                              "processor" : "Qualcomm Snapdragon 888 Octa-Core Processor" ,
+                              "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
+                          }
+  },
+  
+  {
+    "id"              :   "SID40",
+    "name"            :   "9 Pro 5G",
+    "brand"           :   "Oneplus",
+    "category"        :   "Smartphone",
+    "price"           :   "64900",
+    "stock"           :   "23",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "It is equipped with Qualcomm® Snapdragon™ 888 with 5G, Hasselblad Camera, Fluid AMOLED Display 120 Hz Display 2.0, and 4500mAh Battery, support 15 minutes fast charging. OnePlus Oxygen OS based on Andriod 11.",
+    "image"           :   " ",
+    "rating"          :   "4.3",
+    "color"           :   [ "Morning Mist", "Pine Green", "Stellar Black"],
+    "specifications"  :   {
+                              "storage"   : [ "128GB", "256GB" ],
+                              "processor" : "Qualcomm Snapdragon 888 Processor" ,
+                              "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
+                          }
+  },
+   {
+    "id"              :   "SID41",
+    "name"            :   "iPhone 13 Mini",
+    "brand"           :   "Apple",
+    "category"        :   "Smartphone",
+    "price"           :   "69900",
+    "stock"           :   "4",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "iPhone 13 mini is the newly launched mobile amongst iPhone 13 series that is lightweight and has a mesmerising design. This dual-SIM smartphone from Apple features flat edges.",
+    "image"           :   "",
+    "rating"          :   "4.7",
+    "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+    "specifications"  :   {
+                              "storage"   : [ "128GB", "256GB", "512GB" ],
+                              "processor" : "A15 Bionic Chip Processor" ,
+                              "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
+                          }
+  },
+  
+  {
+    "id"              :   "SID42",
+    "name"            :   "iPhone 13 Pro",
+    "brand"           :   "Apple",
+    "category"        :   "Smartphone",
+    "price"           :   "119000",
+    "stock"           :   "15",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. ",
+    "image"           :   "",
+    "rating"          :   "4.8",
+    "color"           :   [ "Graphite", "Gold", "Silver", "Sierra Blue" ],
+    "specifications"  :   {
+                              "storage"   : [ "128GB", "256GB", "512GB" , "1TB"],
+                              "processor" : "A15 Bionic Chip Processor" ,
+                              "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
+                          }
+  },
+  
+  {
+    "id"              :   "SID43",
+    "name"            :   "iPhone SE",
+    "brand"           :   "Apple",
+    "category"        :   "Smartphone",
+    "price"           :   "28499",
+    "stock"           :   "0",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "Apple iPhone SE 2 is the successor to the company’s popular iPhone SE. Rounded corners and comes with an IP68 metal body. Besides, the phone features a OLED display offering crystal clear and vivid visuals.",
+    "image"           :   "",
+    "rating"          :   "4.5",
+    "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+    "specifications"  :   {
+                              "storage"   : [ "64GB","128GB", "256GB" ],
+                              "processor" : "A13 Bionic Chip with 3rd Gen Neural Engine Processor" ,
+                              "display"   : "11.94 cm (4.7 inch) Retina HD Display"
+                          }
+  },
+   
+  {
+    "id"              :   "SID44",
+    "name"            :   "Galaxy Z Fold3 5G",
+    "brand"           :   "Samsung",
+    "category"        :   "Smartphone",
+    "price"           :   "149999",
+    "stock"           :   "18",
+    "discount"        :   "0",
+    "delivery"        :   "2",
+    "description"     :   "19.19cm (7.6 inch) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro.",
+    "image"           :   " ",
+    "rating"          :   "4.2",
+    "color"           :   [ "Phantom Green", "Phantom Black", "Phantom Silver"],
+    "specifications"  :   {
+                              "storage"   : [ "256GB", "512GB" ],
+                              "processor" : "Qualcomm Snapdragon 888 Octa-Core Processor" ,
+                              "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
+                          }
+  },
+  
+  {
+    "id"              :   "SID45",
+    "name"            :   "9 Pro 5G",
+    "brand"           :   "Oneplus",
+    "category"        :   "Smartphone",
+    "price"           :   "64900",
+    "stock"           :   "23",
+    "discount"        :   "10",
+    "delivery"        :   "2",
+    "description"     :   "It is equipped with Qualcomm® Snapdragon™ 888 with 5G, Hasselblad Camera, Fluid AMOLED Display 120 Hz Display 2.0, and 4500mAh Battery, support 15 minutes fast charging. OnePlus Oxygen OS based on Andriod 11.",
+    "image"           :   " ",
+    "rating"          :   "4.3",
+    "color"           :   [ "Morning Mist", "Pine Green", "Stellar Black"],
+    "specifications"  :   {
+                              "storage"   : [ "128GB", "256GB" ],
+                              "processor" : "Qualcomm Snapdragon 888 Processor" ,
+                              "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
+                          }
+  }
+  
+  ,
+  {
+   "id"              :   "SID46",
+   "name"            :   "iPhone 13 Mini",
+   "brand"           :   "Apple",
+   "category"        :   "Smartphone",
+   "price"           :   "69900",
+   "stock"           :   "4",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "iPhone 13 mini is the newly launched mobile amongst iPhone 13 series that is lightweight and has a mesmerising design. This dual-SIM smartphone from Apple features flat edges.",
+   "image"           :   "",
+   "rating"          :   "4.7",
+   "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+   "specifications"  :   {
+                             "storage"   : [ "128GB", "256GB", "512GB" ],
+                             "processor" : "A15 Bionic Chip Processor" ,
+                             "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
+                         }
+ },
+ 
+ {
+   "id"              :   "SID47",
+   "name"            :   "iPhone 13 Pro",
+   "brand"           :   "Apple",
+   "category"        :   "Smartphone",
+   "price"           :   "119000",
+   "stock"           :   "15",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. ",
+   "image"           :   "",
+   "rating"          :   "4.8",
+   "color"           :   [ "Graphite", "Gold", "Silver", "Sierra Blue" ],
+   "specifications"  :   {
+                             "storage"   : [ "128GB", "256GB", "512GB" , "1TB"],
+                             "processor" : "A15 Bionic Chip Processor" ,
+                             "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
+                         }
+ },
+ 
+ {
+   "id"              :   "SID48",
+   "name"            :   "iPhone SE",
+   "brand"           :   "Apple",
+   "category"        :   "Smartphone",
+   "price"           :   "28499",
+   "stock"           :   "0",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "Apple iPhone SE 2 is the successor to the company’s popular iPhone SE. Rounded corners and comes with an IP68 metal body. Besides, the phone features a OLED display offering crystal clear and vivid visuals.",
+   "image"           :   "",
+   "rating"          :   "4.5",
+   "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+   "specifications"  :   {
+                             "storage"   : [ "64GB","128GB", "256GB" ],
+                             "processor" : "A13 Bionic Chip with 3rd Gen Neural Engine Processor" ,
+                             "display"   : "11.94 cm (4.7 inch) Retina HD Display"
+                         }
+ },
+  
+ {
+   "id"              :   "SID49",
+   "name"            :   "Galaxy Z Fold3 5G",
+   "brand"           :   "Samsung",
+   "category"        :   "Smartphone",
+   "price"           :   "149999",
+   "stock"           :   "18",
+   "discount"        :   "0",
+   "delivery"        :   "2",
+   "description"     :   "19.19cm (7.6 inch) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro.",
+   "image"           :   " ",
+   "rating"          :   "4.2",
+   "color"           :   [ "Phantom Green", "Phantom Black", "Phantom Silver"],
+   "specifications"  :   {
+                             "storage"   : [ "256GB", "512GB" ],
+                             "processor" : "Qualcomm Snapdragon 888 Octa-Core Processor" ,
+                             "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
+                         }
+ },
+ 
+ {
+   "id"              :   "SID50",
+   "name"            :   "9 Pro 5G",
+   "brand"           :   "Oneplus",
+   "category"        :   "Smartphone",
+   "price"           :   "64900",
+   "stock"           :   "23",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "It is equipped with Qualcomm® Snapdragon™ 888 with 5G, Hasselblad Camera, Fluid AMOLED Display 120 Hz Display 2.0, and 4500mAh Battery, support 15 minutes fast charging. OnePlus Oxygen OS based on Andriod 11.",
+   "image"           :   " ",
+   "rating"          :   "4.3",
+   "color"           :   [ "Morning Mist", "Pine Green", "Stellar Black"],
+   "specifications"  :   {
+                             "storage"   : [ "128GB", "256GB" ],
+                             "processor" : "Qualcomm Snapdragon 888 Processor" ,
+                             "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
+                         }
+ },
+  {
+   "id"              :   "SID51",
+   "name"            :   "iPhone 13 Mini",
+   "brand"           :   "Apple",
+   "category"        :   "Smartphone",
+   "price"           :   "69900",
+   "stock"           :   "4",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "iPhone 13 mini is the newly launched mobile amongst iPhone 13 series that is lightweight and has a mesmerising design. This dual-SIM smartphone from Apple features flat edges.",
+   "image"           :   "",
+   "rating"          :   "4.7",
+   "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+   "specifications"  :   {
+                             "storage"   : [ "128GB", "256GB", "512GB" ],
+                             "processor" : "A15 Bionic Chip Processor" ,
+                             "display"   : "13.72 cm (5.4 inch) Super Retina XDR Display"
+                         }
+ },
+ 
+ {
+   "id"              :   "SID52",
+   "name"            :   "iPhone 13 Pro",
+   "brand"           :   "Apple",
+   "category"        :   "Smartphone",
+   "price"           :   "119000",
+   "stock"           :   "15",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "A dramatically more powerful camera system. A display so responsive, every interaction feels new again. The world’s fastest smartphone chip. Exceptional durability. And a huge leap in battery life. ",
+   "image"           :   "",
+   "rating"          :   "4.8",
+   "color"           :   [ "Graphite", "Gold", "Silver", "Sierra Blue" ],
+   "specifications"  :   {
+                             "storage"   : [ "128GB", "256GB", "512GB" , "1TB"],
+                             "processor" : "A15 Bionic Chip Processor" ,
+                             "display"   : "15.49 cm (6.1 inch) Super Retina XDR Display"
+                         }
+ },
+ 
+ {
+   "id"              :   "SID53",
+   "name"            :   "iPhone SE",
+   "brand"           :   "Apple",
+   "category"        :   "Smartphone",
+   "price"           :   "28499",
+   "stock"           :   "0",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "Apple iPhone SE 2 is the successor to the company’s popular iPhone SE. Rounded corners and comes with an IP68 metal body. Besides, the phone features a OLED display offering crystal clear and vivid visuals.",
+   "image"           :   "",
+   "rating"          :   "4.5",
+   "color"           :   [ "(PRODUCT)RED", "Blue", "Midnight", "Pink", "Starlight" ],
+   "specifications"  :   {
+                             "storage"   : [ "64GB","128GB", "256GB" ],
+                             "processor" : "A13 Bionic Chip with 3rd Gen Neural Engine Processor" ,
+                             "display"   : "11.94 cm (4.7 inch) Retina HD Display"
+                         }
+ },
+  
+ {
+   "id"              :   "SID54",
+   "name"            :   "Galaxy Z Fold3 5G",
+   "brand"           :   "Samsung",
+   "category"        :   "Smartphone",
+   "price"           :   "149999",
+   "stock"           :   "18",
+   "discount"        :   "0",
+   "delivery"        :   "2",
+   "description"     :   "19.19cm (7.6 inch) Infinity Flex Display with an Under Display Camera, Dynamic AMOLED 2X  with Adaptive Refresh Rate. Switchable 60/120Hz. Compatible with S Pen Fold Edition and S Pen Pro.",
+   "image"           :   " ",
+   "rating"          :   "4.2",
+   "color"           :   [ "Phantom Green", "Phantom Black", "Phantom Silver"],
+   "specifications"  :   {
+                             "storage"   : [ "256GB", "512GB" ],
+                             "processor" : "Qualcomm Snapdragon 888 Octa-Core Processor" ,
+                             "display"   : "19.3 cm (7.6 inch) QXGA+ Display"
+                         }
+ },
+ 
+ {
+   "id"              :   "SID55",
+   "name"            :   "9 Pro 5G",
+   "brand"           :   "Oneplus",
+   "category"        :   "Smartphone",
+   "price"           :   "64900",
+   "stock"           :   "23",
+   "discount"        :   "10",
+   "delivery"        :   "2",
+   "description"     :   "It is equipped with Qualcomm® Snapdragon™ 888 with 5G, Hasselblad Camera, Fluid AMOLED Display 120 Hz Display 2.0, and 4500mAh Battery, support 15 minutes fast charging. OnePlus Oxygen OS based on Andriod 11.",
+   "image"           :   " ",
+   "rating"          :   "4.3",
+   "color"           :   [ "Morning Mist", "Pine Green", "Stellar Black"],
+   "specifications"  :   {
+                             "storage"   : [ "128GB", "256GB" ],
+                             "processor" : "Qualcomm Snapdragon 888 Processor" ,
+                             "display"   : "6.7 Inches Fluid AMOLED Display with 120Hz refresh rate "
+                         }
+ }
 ]
